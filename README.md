@@ -1,1 +1,1 @@
-# apperal
+[{"txt":"picsart","img":"https://s6.uupload.ir/files/picsartt1_fu7h.png","download":"https://www.dl.farsroid.com/ap/PicsArt-Photo-Studio-Beta-20.0.2-Unlocked(FarsRoid.com).apk","important":"yes"},{"txt":"screen recorder","img":"https://s6.uupload.ir/files/az-screen-recorder-no-root-logo_7kr9.png","download":"https://www.dl.farsroid.com/ap/AZ-Screen-Recorder-Premium-5.9.2(Farsroid.com).apk","important":"no"}]
